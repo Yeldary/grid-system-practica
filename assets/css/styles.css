@@ -1,0 +1,15 @@
+.col {
+    background-color: #CFBAF9;
+    border: 1px solid yellow;
+    height: 100px;
+}
+.col-md-6 {
+    background-color: #CFBAF9;
+    border: 1px solid yellow;
+    height: 100px;
+}
+.bg{
+    background-color: #CFBAF9;
+    border: 1px solid yellow;
+    height: 100px;
+}
